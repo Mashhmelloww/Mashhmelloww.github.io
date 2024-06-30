@@ -1,0 +1,156 @@
+.Header {
+  text-align: center;
+  height: 150px;
+  font-size: 100px;
+  font-family: Style Script;
+  position: fixed;
+  background-color: whitesmoke;
+  width: 100%;
+  margin-top: -20px;
+  margin-bottom: 100px;
+  padding: 40px 0;
+  
+  
+}
+  
+.hr {
+ margin-bottom: 400px;
+}
+  
+
+img {
+    animation-name: Fade;
+    animation-duration: 2s;
+}
+
+p {
+    animation-name: Fade;
+    animation-duration: 2s;
+}
+.AboutUs {
+    width: 100%;
+    height: 1500px;
+ 
+}
+
+.AboutUsText {
+    font-size: 100px;
+    text-align: center;
+    font-family: Anton;
+
+}
+
+.BombaclatImg {
+    Width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.BombaclatText {
+    font-size: 30px;
+    text-align: left;
+    font-family: Antonio;
+    margin: 200px;
+
+}
+
+.Members {
+    font-size: 100px;
+    font-family: Anton;
+    text-align: center;
+}
+
+.Bianca {
+ height: 400px;
+ width: 1000px;
+ margin-bottom: 300px;
+}
+
+.BiancaImg {
+ height: 80%;
+ width: 80%;
+ object-fit: contain;
+ margin-left: -200px;
+ display: inline-block;
+
+}
+  
+.BiancaText {
+ margin-left: 450px;
+ margin-top: -250px;
+ text-align: center;
+ font-size: 100px;
+ font-family: Style Script;
+}
+  
+.BiancaImg:hover {
+ width: 85%;
+ height: 85%;
+ transition-duration: 2s;
+}
+
+ @keyframes Fade {
+from {opacity: 0%;}
+to {opacity: 100%;}
+ }
+
+
+.Jex {
+ height: 400px;
+ width: 1000px;
+ margin-bottom: 300px;
+}
+    
+.JexImg {
+ height: 80%;
+ width: 80%;
+ object-fit: contain;
+ margin-left: 1200px;
+ display: inline-block;
+ margin-right: 0px;
+}
+    
+.JexText {
+ margin-left: 500px;
+ margin-right: 0px;
+ margin-top: -300px;
+ text-align: center;
+ font-size: 100px;
+ font-family: Style Script;
+ width: 1000px;
+}
+
+.JexImg:hover {
+ width: 85%;
+ height: 85%;
+ transition-duration: 2s;
+}
+
+.Kate {
+    height: 400px;
+    width: 1000px;
+    margin-bottom: 300px;
+   }
+   
+   .KateImg {
+    height: 80%;
+    width: 80%;
+    object-fit: contain;
+    margin-left: -200px;
+    display: inline-block;
+   }
+     
+   .KateText {
+    margin-left: 450px;
+    margin-top: -250px;
+    text-align: center;
+    font-size: 100px;
+    font-family: Style Script;
+   }
+     
+   .KateImg:hover {
+    width: 85%;
+    height: 85%;
+    transition-duration: 2s;
+   }
